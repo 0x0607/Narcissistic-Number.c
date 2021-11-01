@@ -14,7 +14,3 @@ int main(){
     i*=10;}
     printf("\n\n%d is %sNarcissistic-Number",input,output==input ? "\0" :"not ");
 return 0;}
-/************************************/
-//水仙花數(Narcissistic number)定義：
-//其各個數之立方和等於該數
-/************************************/
